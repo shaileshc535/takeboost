@@ -860,7 +860,7 @@
 }
 
 .logo_name:hover {
-  transform: translate(10px, 10px);
+  transform: translateY(-10px);
 }
 
 .scrolled_card {
