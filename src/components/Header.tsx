@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import { Grid, Typography, Button } from "@mui/material";
 
 const Header = () => {
@@ -19,10 +20,10 @@ const Header = () => {
         </Grid>
 
         <Grid className="nav-link-wrapper" item>
-          <a href="#" className="shop-link">
+          <a href="https://takeboost.netlify.app/" className="shop-link">
             shop
           </a>
-          <a href="#" className="shop-link">
+          <a href="https://takeboost.netlify.app/" className="shop-link">
             about
           </a>
         </Grid>
