@@ -1,5 +1,5 @@
 import { Grid, Typography } from "@mui/material";
-import React, { useEffect, useState, useRef } from "react";
+import React, { useRef } from "react";
 import star from "../assets/image/2cd43b_66affcabc77f42108dd1a4b4c02ed7aa_mv2.png";
 import halfstar from "../assets/image/2cd43b_bb470dcff5274ddd80fd199577e13352_mv2.png";
 import user from "../assets/image/764d59d32f61f0f91dec8c442ab052c5.jpg";
