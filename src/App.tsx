@@ -4,8 +4,6 @@ import { createTheme } from "@mui/material/styles";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { routes as appRoutes } from "./Routes";
 
-// import Navbar from "./Component/Navbar";
-// import Footer from "./Component/Footer";
 import "./App.css";
 
 function App() {
