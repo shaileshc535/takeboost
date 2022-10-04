@@ -10,8 +10,9 @@ const CardsScroll = () => {
   const inViewport = useIntersection(ref, "-200px");
 
   if (inViewport) {
-    console.log("in viewport:", ref.current);
+    // console.log("in viewport:", ref.current);
   }
+
   return (
     <>
       <Grid className="card-scroll-container">
