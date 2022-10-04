@@ -313,22 +313,22 @@ const VerticalScroll = () => {
           </Grid>
           <img
             src={zinc}
-            alt=""
+            alt="zink"
             className={image9 === false ? "zink_image_01" : "image_01_active"}
           />
           <img
             src={zinc}
-            alt=""
+            alt="zink"
             className={image10 === false ? "zink_image_02" : "image_02_active"}
           />
           <img
             src={zinc}
-            alt=""
+            alt="zink"
             className={image11 === false ? "zink_image_03" : "image_03_active"}
           />
           <img
             src={zinc}
-            alt=""
+            alt="zink"
             className={image12 === false ? "zink_image_04" : "image_04_active"}
           />
         </Grid>
