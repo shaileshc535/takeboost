@@ -51,17 +51,26 @@ const Footer = () => {
           <Grid className="footer-menu">
             <Grid className="footer-link-wrapper">
               <Typography variant="subtitle1" className="footer-link">
-                <a href="https://takeboost.netlify.app/" className="footer-link">
+                <a
+                  href="https://takeboost.netlify.app/"
+                  className="footer-link"
+                >
                   home
                 </a>
               </Typography>
               <Typography variant="subtitle1" className="footer-link">
-                <a href="https://takeboost.netlify.app/" className="footer-link">
+                <a
+                  href="https://takeboost.netlify.app/"
+                  className="footer-link"
+                >
                   shop
                 </a>
               </Typography>
               <Typography variant="subtitle1" className="footer-link">
-                <a href="https://takeboost.netlify.app/" className="footer-link">
+                <a
+                  href="https://takeboost.netlify.app/"
+                  className="footer-link"
+                >
                   about
                 </a>
               </Typography>
@@ -69,17 +78,26 @@ const Footer = () => {
 
             <Grid className="footer-link-wrapper">
               <Typography variant="subtitle1" className="footer-link">
-                <a href="https://takeboost.netlify.app/" className="footer-link">
+                <a
+                  href="https://takeboost.netlify.app/"
+                  className="footer-link"
+                >
                   contact
                 </a>
               </Typography>
               <Typography variant="subtitle1" className="footer-link">
-                <a href="https://takeboost.netlify.app/" className="footer-link">
+                <a
+                  href="https://takeboost.netlify.app/"
+                  className="footer-link"
+                >
                   terms
                 </a>
               </Typography>
               <Typography variant="subtitle1" className="footer-link">
-                <a href="https://takeboost.netlify.app/" className="footer-link">
+                <a
+                  href="https://takeboost.netlify.app/"
+                  className="footer-link"
+                >
                   policy
                 </a>
               </Typography>
@@ -87,17 +105,26 @@ const Footer = () => {
 
             <Grid className="footer-link-wrapper last">
               <Typography variant="subtitle1" className="footer-link">
-                <a href="https://takeboost.netlify.app/" className="footer-link">
+                <a
+                  href="https://takeboost.netlify.app/"
+                  className="footer-link"
+                >
                   instagram
                 </a>
               </Typography>
               <Typography variant="subtitle1" className="footer-link">
-                <a href="https://takeboost.netlify.app/" className="footer-link">
+                <a
+                  href="https://takeboost.netlify.app/"
+                  className="footer-link"
+                >
                   tiktok
                 </a>
               </Typography>
               <Typography variant="subtitle1" className="footer-link">
-                <a href="https://takeboost.netlify.app/" className="footer-link">
+                <a
+                  href="https://takeboost.netlify.app/"
+                  className="footer-link"
+                >
                   facebook
                 </a>
               </Typography>

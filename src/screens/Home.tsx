@@ -5,7 +5,8 @@ import HeroHeading from "../components/HeroHeading";
 import VerticalScroll from "../components/VerticalScroll";
 import CardsScroll from "../components/CardsScroll";
 import Footer from "../components/Footer";
-import Slider from "../components/bottel/Slider";
+import Cursor from "../components/cursor/Cursor";
+// import Slider from "../components/bottel/Slider";
 
 const Home = () => {
   return (
@@ -13,7 +14,7 @@ const Home = () => {
       <Grid className="home-wrapper">
         <Grid className="hero-section">
           <Header />
-          <Slider />
+          <Cursor />
           <HeroHeading />
           <VerticalScroll />
           <CardsScroll />
